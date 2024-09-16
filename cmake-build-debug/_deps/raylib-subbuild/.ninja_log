@@ -1,0 +1,21 @@
+# ninja log v6
+1	34	7477382233391413	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	3d3e19f487aaab60
+15997	16025	7477382393299205	C:/Users/Jason/Desktop/raylib-game/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	424031e21d055b1b
+15847	15877	7477382391819212	C:/Users/Jason/Desktop/raylib-game/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	b9371caa0086df5e
+15967	15996	7477382393009213	C:/Users/Jason/Desktop/raylib-game/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	afc5a7cea5d3e260
+1	34	7477382233391413	C:/Users/Jason/Desktop/raylib-game/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	3d3e19f487aaab60
+35	15846	7477382391509200	C:/Users/Jason/Desktop/raylib-game/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	aed71b839ae69be9
+35	15846	7477382391509200	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	aed71b839ae69be9
+15877	15906	7477382392109195	C:/Users/Jason/Desktop/raylib-game/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	43d4754aa4d03570
+15847	15877	7477382391819212	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	b9371caa0086df5e
+15877	15906	7477382392109195	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	43d4754aa4d03570
+15906	15937	7477382392409193	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	740633fa72b3956b
+15906	15937	7477382392409193	C:/Users/Jason/Desktop/raylib-game/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	740633fa72b3956b
+15937	15967	7477382392719205	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	81d49b7263dfbe12
+15937	15967	7477382392719205	C:/Users/Jason/Desktop/raylib-game/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	81d49b7263dfbe12
+15967	15996	7477382393009213	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	afc5a7cea5d3e260
+15997	16025	7477382393299205	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	424031e21d055b1b
+16025	16067	7477382393719213	CMakeFiles/raylib-populate-complete	b34f6e194f12ecc6
+16025	16067	7477382393719213	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	b34f6e194f12ecc6
+16025	16067	7477382393719213	C:/Users/Jason/Desktop/raylib-game/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete	b34f6e194f12ecc6
+16025	16067	7477382393719213	C:/Users/Jason/Desktop/raylib-game/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	b34f6e194f12ecc6
